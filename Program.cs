@@ -199,7 +199,6 @@ namespace Biblioteca;
                 var livro = leitor.Livros.Where(l => l.Titulo.Equals(titulo)).FirstOrDefault();
                 if (livro != null)
                 {
-                    // Usando o método que criamos dentro da classe Leitor
                     leitor.RemoverLivro(livro);
                     Console.WriteLine("Livro removido.");
                 }
