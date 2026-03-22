@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trabalho_tiolu_biblioteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75be50a9dfdcd1c827c68191923eca92b64af9dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c710f79ce05275d87d5d93baa4ea2958fa94a3d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("trabalho_tiolu_biblioteca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trabalho_tiolu_biblioteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
