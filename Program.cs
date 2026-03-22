@@ -4,7 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Biblioteca;
+namespace Biblioteca
+{
     public class Livro
     {
         public string Titulo { get; set; }
@@ -119,6 +120,7 @@ namespace Biblioteca;
             var leitor = leitores.Where(c => c.Cpf.Equals(cpf)).FirstOrDefault();
             if (leitor != null)
             {
+                Console.WriteLine($"-> Leitor encontrado: {leitor.Nome}");
                 Console.Write("Digite o novo Nome: ");
                 leitor.Nome = Console.ReadLine()!;
                 Console.WriteLine("Dados atualizados.");
@@ -153,7 +155,6 @@ namespace Biblioteca;
                 Console.Write("Digite o Autor do livro: ");
                 string autor = Console.ReadLine()!;
                 
-                // Usando o método que criamos dentro da classe Leitor
                 leitor.AdicionarLivro(new Livro(titulo, autor));
                 Console.WriteLine("Livro adicionado ao leitor.");
             }
@@ -285,3 +286,4 @@ namespace Biblioteca;
             else Console.WriteLine("Nenhum leitor possui este livro.");
         }
     }
+}

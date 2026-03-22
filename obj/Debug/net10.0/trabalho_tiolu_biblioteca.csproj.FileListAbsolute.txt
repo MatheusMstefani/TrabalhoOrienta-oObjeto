@@ -1,0 +1,15 @@
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\bin\Debug\net10.0\trabalho_tiolu_biblioteca.exe
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\bin\Debug\net10.0\trabalho_tiolu_biblioteca.deps.json
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\bin\Debug\net10.0\trabalho_tiolu_biblioteca.runtimeconfig.json
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\bin\Debug\net10.0\trabalho_tiolu_biblioteca.dll
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\bin\Debug\net10.0\trabalho_tiolu_biblioteca.pdb
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.AssemblyInfoInputs.cache
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.AssemblyInfo.cs
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.sourcelink.json
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.dll
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\refint\trabalho_tiolu_biblioteca.dll
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.pdb
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\trabalho_tiolu_biblioteca.genruntimeconfig.cache
+C:\Users\enzoy\trabalho_tiolu_biblioteca\TrabalhoOrienta-oObjeto\obj\Debug\net10.0\ref\trabalho_tiolu_biblioteca.dll
