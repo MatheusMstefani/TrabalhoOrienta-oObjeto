@@ -4,8 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Biblioteca
-{
+namespace Biblioteca;
     public class Livro
     {
         public string Titulo { get; set; }
@@ -67,8 +66,6 @@ namespace Biblioteca
                 else if (opcao == 11) PesquisarLivroEspecifico(leitores);
             }
         }
-
-        // --- MÉTODOS DO PROGRAMA PRINCIPAL (Modularização) ---
 
         static void ExibirMenu()
         {
@@ -289,4 +286,3 @@ namespace Biblioteca
             else Console.WriteLine("Nenhum leitor possui este livro.");
         }
     }
-}
